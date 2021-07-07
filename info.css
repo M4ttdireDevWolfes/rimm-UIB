@@ -1,0 +1,20 @@
+header {
+    background-color: white;
+}
+body {
+    background-color: bisque;
+
+}
+
+
+.high {
+    width: 200px;
+    image-resolution: 300dpi;
+
+}
+h1 {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
